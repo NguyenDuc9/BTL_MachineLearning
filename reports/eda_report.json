@@ -1,0 +1,87 @@
+{
+  "rows": 800,
+  "columns": 6,
+  "column_names": [
+    "study_hours",
+    "attendance",
+    "assignment_score",
+    "midterm_score",
+    "practice_score",
+    "result"
+  ],
+  "missing_values": {
+    "study_hours": 0,
+    "attendance": 0,
+    "assignment_score": 0,
+    "midterm_score": 0,
+    "practice_score": 0,
+    "result": 0
+  },
+  "duplicate_rows": 0,
+  "target_distribution": {
+    "0": 246,
+    "1": 554
+  },
+  "statistics": {
+    "study_hours": {
+      "count": 800.0,
+      "mean": 4.9425,
+      "std": 2.907,
+      "min": 0.0,
+      "25%": 2.4,
+      "50%": 4.9,
+      "75%": 7.6,
+      "max": 10.0
+    },
+    "attendance": {
+      "count": 800.0,
+      "mean": 72.7942,
+      "std": 16.0026,
+      "min": 45.0,
+      "25%": 58.575,
+      "50%": 72.1,
+      "75%": 86.925,
+      "max": 100.0
+    },
+    "assignment_score": {
+      "count": 800.0,
+      "mean": 5.9506,
+      "std": 2.3391,
+      "min": 2.0,
+      "25%": 4.0,
+      "50%": 5.8,
+      "75%": 8.0,
+      "max": 10.0
+    },
+    "midterm_score": {
+      "count": 800.0,
+      "mean": 6.0236,
+      "std": 2.3135,
+      "min": 2.0,
+      "25%": 4.0,
+      "50%": 6.2,
+      "75%": 8.0,
+      "max": 10.0
+    },
+    "practice_score": {
+      "count": 800.0,
+      "mean": 5.9485,
+      "std": 2.3074,
+      "min": 2.0,
+      "25%": 4.0,
+      "50%": 6.0,
+      "75%": 8.0,
+      "max": 10.0
+    },
+    "result": {
+      "count": 800.0,
+      "mean": 0.6925,
+      "std": 0.4617,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 1.0,
+      "75%": 1.0,
+      "max": 1.0
+    }
+  }
+}
